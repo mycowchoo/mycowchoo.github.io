@@ -108,7 +108,7 @@ body {
     background: #1E1E1E;
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.64);
 }
 
 h2 {
@@ -124,7 +124,7 @@ h2 {
 .input-group input {
     width: 90%;
     padding: 10px;
-    border: 1px solid #3D3D3D;
+    border: 1px solid #FFFF;
     border-radius: 5px;
     font-size: 16px;
 }
