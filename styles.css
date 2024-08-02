@@ -19,7 +19,7 @@ body {
 }
 
 .sidebar h2 {
-    color: #1DB954;
+    color: #E0E0E0;
     margin-top: 0;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .chat-container {
-    background-color: #1E1E1E;
+    background-color: #333333;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
@@ -69,7 +69,7 @@ body {
 
 .input {
     border: none;
-    border-top: 1px solid #121212;
+    border-top: 1px solid #2C2C2C;
     padding: 10px;
     background-color: #121212;
     color: #E0E0E0;
